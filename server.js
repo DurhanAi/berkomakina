@@ -8,18 +8,26 @@ const __dirname = path.dirname(__filename);
 
 // Express uygulaması
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
-// Statik dosyaları dist/public klasöründen sun
+// 1. www’den ana domaine yönlendirme middleware’i
+app.use((req, res, next) => {
+  if (req.headers.host === 'www.berkomakina.com') {
+    return res.redirect(301, 'https://berkomakina.com' + req.url);
+  }
+  next();
+});
+
+// 2. Statik dosyaları dist/public klasöründen sun
 const staticPath = path.join(__dirname, 'dist', 'public');
 app.use(express.static(staticPath));
 
-// Ana sayfa için index.html'i sun
+// 3. Ana sayfa için index.html'i sun
 app.get('/', (req, res) => {
   res.sendFile(path.join(staticPath, 'index.html'));
 });
 
-// Sunucuyu başlat
+// 4. Sunucuyu başlat
 app.listen(port, () => {
   console.log(`✅ Site yayında: http://localhost:${port}`);
 });
