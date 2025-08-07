@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Screen Printing Machine -->
+  
+  <!-- Main Machine Frame -->
+  <rect x="100" y="150" width="600" height="200" rx="8" fill="#cbd5e1"/>
+  <rect x="110" y="160" width="580" height="180" rx="6" fill="#e2e8f0"/>
+  
+  <!-- Screen Frame -->
+  <rect x="250" y="120" width="300" height="180" rx="5" fill="#64748b"/>
+  <rect x="260" y="130" width="280" height="160" rx="3" fill="#f8fafc"/>
+  <!-- Screen Mesh -->
+  <defs>
+    <pattern id="screenMesh" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#f8fafc"/>
+      <path d="M0,0 L10,10 M10,0 L0,10" stroke="#94a3b8" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+  <rect x="270" y="140" width="260" height="140" fill="url(#screenMesh)"/>
+  
+  <!-- Squeegee -->
+  <rect x="300" y="110" width="200" height="20" rx="10" fill="#475569"/>
+  <rect x="310" y="115" width="180" height="10" rx="5" fill="#334155"/>
+  
+  <!-- Ink Reservoir -->
+  <rect x="320" y="90" width="160" height="30" rx="5" fill="#1e293b"/>
+  <rect x="330" y="100" width="140" height="10" rx="2" fill="#3b82f6"/>
+  
+  <!-- Product Platform -->
+  <rect x="200" y="320" width="400" height="30" rx="3" fill="#94a3b8"/>
+  
+  <!-- Products Being Printed -->
+  <rect x="220" y="300" width="60" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="225" y="305" width="50" height="10" rx="1" fill="#3b82f6"/>
+  <text x="235" y="315" font-family="Arial" font-size="8" font-weight="bold" fill="#f8fafc">LOGO</text>
+  
+  <rect x="300" y="300" width="60" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="305" y="305" width="50" height="10" rx="1" fill="#ef4444"/>
+  <text x="315" y="315" font-family="Arial" font-size="8" font-weight="bold" fill="#f8fafc">BRAND</text>
+  
+  <rect x="380" y="300" width="60" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="385" y="305" width="50" height="10" rx="1" fill="#22c55e"/>
+  <text x="395" y="315" font-family="Arial" font-size="8" font-weight="bold" fill="#1e293b">TEXT</text>
+  
+  <rect x="460" y="300" width="60" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="465" y="305" width="50" height="10" rx="1" fill="#fbbf24"/>
+  <text x="475" y="315" font-family="Arial" font-size="8" font-weight="bold" fill="#1e293b">DESIGN</text>
+  
+  <!-- Control System -->
+  <rect x="120" y="180" width="100" height="120" rx="5" fill="#334155"/>
+  <rect x="130" y="190" width="80" height="100" rx="3" fill="#1e293b"/>
+  <!-- Display -->
+  <rect x="140" y="200" width="60" height="40" rx="2" fill="#0ea5e9"/>
+  <text x="145" y="225" font-family="Arial" font-size="10" fill="#f8fafc">SPEED: 300/h</text>
+  <!-- Controls -->
+  <circle cx="150" cy="260" r="10" fill="#22c55e"/>
+  <circle cx="170" cy="260" r="10" fill="#ef4444"/>
+  <circle cx="190" cy="260" r="10" fill="#fbbf24"/>
+  
+  <!-- Pneumatic System -->
+  <rect x="580" y="180" width="100" height="120" rx="5" fill="#475569"/>
+  <rect x="590" y="190" width="80" height="100" rx="3" fill="#334155"/>
+  <!-- Pressure Gauge -->
+  <circle cx="630" cy="220" r="20" fill="#f8fafc"/>
+  <circle cx="630" cy="220" r="15" fill="#e2e8f0"/>
+  <path d="M620 220L630 210L640 220" stroke="#1e293b" stroke-width="2" fill="none"/>
+  <text x="615" y="240" font-family="Arial" font-size="8" fill="#f8fafc">6 BAR</text>
+  <!-- Air Lines -->
+  <path d="M630 240L630 280" stroke="#94a3b8" stroke-width="4"/>
+  <path d="M620 280L640 280" stroke="#94a3b8" stroke-width="4"/>
+  
+  <!-- Conveyor Belt -->
+  <rect x="150" y="380" width="500" height="20" rx="3" fill="#64748b"/>
+  <rect x="155" y="380" width="490" height="3" fill="#475569"/>
+  <rect x="155" y="397" width="490" height="3" fill="#475569"/>
+  
+  <!-- Screen Lift Mechanism -->
+  <rect x="380" y="80" width="40" height="40" rx="3" fill="#94a3b8"/>
+  <rect x="390" y="90" width="20" height="20" rx="2" fill="#64748b"/>
+  <path d="M400 80L400 50" stroke="#475569" stroke-width="3"/>
+  <circle cx="400" cy="50" r="5" fill="#334155"/>
+  
+  <!-- Machine Label -->
+  <rect x="280" y="410" width="240" height="30" rx="5" fill="#1e293b"/>
+  <text x="310" y="432" font-family="Arial" font-size="16" font-weight="bold" fill="#3b82f6">BERKO SCREEN PRINTING</text>
+</svg>

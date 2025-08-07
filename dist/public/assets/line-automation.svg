@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380" fill="none">
+  <!-- Background -->
+  <rect width="500" height="380" fill="#f8fafc"/>
+  
+  <!-- Line Automation System -->
+  
+  <!-- Main Control Cabinet -->
+  <rect x="80" y="120" width="100" height="160" rx="8" fill="#1e293b"/>
+  <rect x="90" y="130" width="80" height="140" rx="6" fill="#334155"/>
+  
+  <!-- SCADA Display -->
+  <rect x="100" y="140" width="60" height="50" rx="3" fill="#0ea5e9"/>
+  <rect x="105" y="145" width="50" height="40" rx="2" fill="#0c4a6e"/>
+  <text x="110" y="160" font-family="Arial" font-size="8" fill="#f8fafc">SCADA</text>
+  <text x="110" y="170" font-family="Arial" font-size="8" fill="#f8fafc">LINE STATUS</text>
+  <text x="110" y="180" font-family="Arial" font-size="8" fill="#f8fafc">ACTIVE</text>
+  
+  <!-- PLC Unit -->
+  <rect x="100" y="200" width="60" height="40" rx="3" fill="#64748b"/>
+  <rect x="110" y="210" width="40" height="20" rx="2" fill="#475569"/>
+  <text x="120" y="225" font-family="Arial" font-size="8" fill="#f8fafc">PLC</text>
+  
+  <!-- Status LEDs -->
+  <circle cx="110" cy="250" r="4" fill="#22c55e"/>
+  <circle cx="125" cy="250" r="4" fill="#22c55e"/>
+  <circle cx="140" cy="250" r="4" fill="#fbbf24"/>
+  <circle cx="155" cy="250" r="4" fill="#22c55e"/>
+  
+  <!-- Network Switch -->
+  <rect x="200" y="130" width="80" height="30" rx="3" fill="#475569"/>
+  <rect x="210" y="140" width="60" height="10" rx="1" fill="#334155"/>
+  <circle cx="220" cy="145" r="2" fill="#22c55e"/>
+  <circle cx="230" cy="145" r="2" fill="#22c55e"/>
+  <circle cx="240" cy="145" r="2" fill="#fbbf24"/>
+  <circle cx="250" cy="145" r="2" fill="#22c55e"/>
+  <circle cx="260" cy="145" r="2" fill="#22c55e"/>
+  
+  <!-- Production Line Stations -->
+  
+  <!-- Station 1: Feeding -->
+  <rect x="300" y="120" width="60" height="40" rx="3" fill="#cbd5e1"/>
+  <rect x="310" y="130" width="40" height="20" rx="2" fill="#94a3b8"/>
+  <text x="315" y="115" font-family="Arial" font-size="8" fill="#1e293b">STATION 1</text>
+  <circle cx="330" cy="140" r="5" fill="#22c55e"/>
+  
+  <!-- Station 2: Processing -->
+  <rect x="380" y="120" width="60" height="40" rx="3" fill="#cbd5e1"/>
+  <rect x="390" y="130" width="40" height="20" rx="2" fill="#94a3b8"/>
+  <text x="385" y="115" font-family="Arial" font-size="8" fill="#1e293b">STATION 2</text>
+  <circle cx="410" cy="140" r="5" fill="#22c55e"/>
+  
+  <!-- Station 3: Quality Control -->
+  <rect x="300" y="180" width="60" height="40" rx="3" fill="#cbd5e1"/>
+  <rect x="310" y="190" width="40" height="20" rx="2" fill="#94a3b8"/>
+  <text x="305" y="175" font-family="Arial" font-size="8" fill="#1e293b">STATION 3</text>
+  <circle cx="330" cy="200" r="5" fill="#fbbf24"/>
+  <!-- Vision System -->
+  <circle cx="340" cy="200" r="8" fill="#0ea5e9"/>
+  <circle cx="340" cy="200" r="5" fill="#0c4a6e"/>
+  
+  <!-- Station 4: Packaging -->
+  <rect x="380" y="180" width="60" height="40" rx="3" fill="#cbd5e1"/>
+  <rect x="390" y="190" width="40" height="20" rx="2" fill="#94a3b8"/>
+  <text x="385" y="175" font-family="Arial" font-size="8" fill="#1e293b">STATION 4</text>
+  <circle cx="410" cy="200" r="5" fill="#22c55e"/>
+  
+  <!-- Conveyor System -->
+  <rect x="200" y="260" width="240" height="20" rx="3" fill="#64748b"/>
+  <rect x="205" y="260" width="230" height="3" fill="#475569"/>
+  <rect x="205" y="277" width="230" height="3" fill="#475569"/>
+  
+  <!-- Products on Conveyor -->
+  <rect x="220" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="250" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="280" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="310" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="340" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="370" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="400" y="250" width="12" height="10" rx="1" fill="#3b82f6"/>
+  
+  <!-- Network Connections -->
+  <path d="M180 145L200 145" stroke="#fbbf24" stroke-width="3" fill="none"/>
+  <path d="M280 145L300 140" stroke="#fbbf24" stroke-width="3" fill="none"/>
+  <path d="M280 145L380 140" stroke="#fbbf24" stroke-width="3" fill="none"/>
+  <path d="M240 160L330 180" stroke="#fbbf24" stroke-width="3" fill="none"/>
+  <path d="M260 160L410 180" stroke="#fbbf24" stroke-width="3" fill="none"/>
+  
+  <!-- HMI Panels -->
+  <rect x="320" y="80" width="40" height="25" rx="2" fill="#0ea5e9"/>
+  <rect x="325" y="85" width="30" height="15" rx="1" fill="#0c4a6e"/>
+  <text x="330" y="95" font-family="Arial" font-size="6" fill="#f8fafc">HMI 1</text>
+  
+  <rect x="400" y="80" width="40" height="25" rx="2" fill="#0ea5e9"/>
+  <rect x="405" y="85" width="30" height="15" rx="1" fill="#0c4a6e"/>
+  <text x="410" y="95" font-family="Arial" font-size="6" fill="#f8fafc">HMI 2</text>
+  
+  <!-- Sensors -->
+  <rect x="290" y="240" width="10" height="20" rx="2" fill="#ef4444"/>
+  <circle cx="295" cy="250" r="2" fill="#fbbf24"/>
+  
+  <rect x="370" y="240" width="10" height="20" rx="2" fill="#ef4444"/>
+  <circle cx="375" cy="250" r="2" fill="#22c55e"/>
+  
+  <!-- Data Collection -->
+  <rect x="90" y="300" width="80" height="30" rx="3" fill="#94a3b8"/>
+  <rect x="100" y="310" width="60" height="10" rx="1" fill="#64748b"/>
+  <text x="105" y="295" font-family="Arial" font-size="8" fill="#1e293b">DATA LOG</text>
+  <text x="115" y="320" font-family="Arial" font-size="7" fill="#f8fafc">RECORDING</text>
+  
+  <!-- Remote Access -->
+  <rect x="200" y="300" width="80" height="30" rx="3" fill="#0ea5e9"/>
+  <rect x="210" y="310" width="60" height="10" rx="1" fill="#0c4a6e"/>
+  <text x="205" y="295" font-family="Arial" font-size="8" fill="#1e293b">REMOTE</text>
+  <text x="225" y="320" font-family="Arial" font-size="7" fill="#f8fafc">ACCESS</text>
+  
+  <!-- Alarm System -->
+  <rect x="310" y="300" width="80" height="30" rx="3" fill="#ef4444"/>
+  <rect x="320" y="310" width="60" height="10" rx="1" fill="#b91c1c"/>
+  <text x="315" y="295" font-family="Arial" font-size="8" fill="#1e293b">ALARMS</text>
+  <text x="335" y="320" font-family="Arial" font-size="7" fill="#f8fafc">ACTIVE: 0</text>
+  
+  <!-- Support Structure -->
+  <rect x="130" y="340" width="8" height="25" fill="#475569"/>
+  <rect x="240" y="340" width="8" height="25" fill="#475569"/>
+  <rect x="350" y="340" width="8" height="25" fill="#475569"/>
+  
+  <!-- Base Platform -->
+  <rect x="80" y="365" width="360" height="15" rx="3" fill="#64748b"/>
+  
+  <!-- Machine Label -->
+  <rect x="200" y="350" width="120" height="15" rx="3" fill="#1e293b"/>
+  <text x="210" y="361" font-family="Arial" font-size="10" font-weight="bold" fill="#0ea5e9">HAT OTOMASYON</text>
+</svg>

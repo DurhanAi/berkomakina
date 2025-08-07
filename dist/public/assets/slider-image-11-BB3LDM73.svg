@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Assembly Line Machine -->
+  
+  <!-- Main Conveyor System -->
+  <rect x="50" y="300" width="700" height="40" rx="5" fill="#64748b"/>
+  <rect x="55" y="305" width="690" height="30" rx="3" fill="#475569"/>
+  <rect x="60" y="310" width="680" height="20" rx="2" fill="#334155"/>
+  
+  <!-- Conveyor Rollers -->
+  <circle cx="100" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="150" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="200" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="250" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="300" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="350" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="400" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="450" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="500" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="550" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="600" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="650" cy="320" r="8" fill="#94a3b8"/>
+  <circle cx="700" cy="320" r="8" fill="#94a3b8"/>
+  
+  <!-- Assembly Station 1: Component Feeding -->
+  <rect x="120" y="180" width="100" height="120" rx="5" fill="#cbd5e1"/>
+  <rect x="130" y="190" width="80" height="100" rx="3" fill="#e2e8f0"/>
+  <!-- Feeder Mechanism -->
+  <rect x="140" y="200" width="60" height="60" rx="3" fill="#94a3b8"/>
+  <rect x="150" y="210" width="40" height="40" rx="2" fill="#64748b"/>
+  <!-- Components -->
+  <circle cx="160" cy="220" r="5" fill="#3b82f6"/>
+  <circle cx="175" cy="225" r="5" fill="#ef4444"/>
+  <circle cx="190" cy="220" r="5" fill="#22c55e"/>
+  <!-- Station Label -->
+  <rect x="135" y="270" width="70" height="15" rx="3" fill="#1e293b"/>
+  <text x="145" y="282" font-family="Arial" font-size="10" font-weight="bold" fill="#f8fafc">BESLEME</text>
+  
+  <!-- Assembly Station 2: Main Assembly -->
+  <rect x="280" y="150" width="120" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="290" y="160" width="100" height="130" rx="3" fill="#e2e8f0"/>
+  <!-- Assembly Arms -->
+  <rect x="300" y="170" width="80" height="20" rx="2" fill="#475569"/>
+  <rect x="310" y="200" width="60" height="15" rx="2" fill="#334155"/>
+  <rect x="320" y="230" width="40" height="10" rx="1" fill="#1e293b"/>
+  <!-- Robotic Components -->
+  <circle cx="340" cy="180" r="12" fill="#64748b"/>
+  <rect x="330" y="190" width="20" height="30" rx="2" fill="#475569"/>
+  <rect x="335" y="220" width="10" height="20" rx="1" fill="#334155"/>
+  <!-- Products Being Assembled -->
+  <rect x="300" y="250" width="25" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="335" y="250" width="25" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="370" y="250" width="25" height="20" rx="2" fill="#f8fafc"/>
+  <!-- Assembly indicators -->
+  <circle cx="312" cy="260" r="3" fill="#22c55e"/>
+  <circle cx="347" cy="260" r="3" fill="#fbbf24"/>
+  <circle cx="382" cy="260" r="3" fill="#3b82f6"/>
+  <!-- Station Label -->
+  <rect x="305" y="275" width="70" height="15" rx="3" fill="#1e293b"/>
+  <text x="315" y="287" font-family="Arial" font-size="10" font-weight="bold" fill="#f8fafc">MONTAJ</text>
+  
+  <!-- Assembly Station 3: Quality Control -->
+  <rect x="450" y="170" width="100" height="130" rx="5" fill="#cbd5e1"/>
+  <rect x="460" y="180" width="80" height="110" rx="3" fill="#e2e8f0"/>
+  <!-- Vision System -->
+  <circle cx="500" cy="210" r="20" fill="#0ea5e9"/>
+  <circle cx="500" cy="210" r="15" fill="#0c4a6e"/>
+  <circle cx="500" cy="210" r="8" fill="#1e293b"/>
+  <!-- LED Ring -->
+  <circle cx="485" cy="195" r="3" fill="#f8fafc"/>
+  <circle cx="515" cy="195" r="3" fill="#f8fafc"/>
+  <circle cx="485" cy="225" r="3" fill="#f8fafc"/>
+  <circle cx="515" cy="225" r="3" fill="#f8fafc"/>
+  <!-- Scanner -->
+  <rect x="480" y="240" width="40" height="15" rx="2" fill="#94a3b8"/>
+  <rect x="485" y="245" width="30" height="5" rx="1" fill="#ef4444"/>
+  <!-- Products Under Inspection -->
+  <rect x="475" y="265" width="20" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="505" y="265" width="20" height="15" rx="2" fill="#f8fafc"/>
+  <!-- Quality Indicators -->
+  <circle cx="485" cy="272" r="3" fill="#22c55e"/>
+  <circle cx="515" cy="272" r="3" fill="#22c55e"/>
+  <!-- Station Label -->
+  <rect x="465" y="285" width="70" height="15" rx="3" fill="#1e293b"/>
+  <text x="475" y="297" font-family="Arial" font-size="10" font-weight="bold" fill="#f8fafc">KONTROL</text>
+  
+  <!-- Assembly Station 4: Packaging -->
+  <rect x="600" y="180" width="100" height="120" rx="5" fill="#cbd5e1"/>
+  <rect x="610" y="190" width="80" height="100" rx="3" fill="#e2e8f0"/>
+  <!-- Packaging Machine -->
+  <rect x="620" y="200" width="60" height="60" rx="3" fill="#94a3b8"/>
+  <rect x="630" y="210" width="40" height="40" rx="2" fill="#64748b"/>
+  <!-- Packaging Materials -->
+  <rect x="640" y="220" width="20" height="20" rx="1" fill="#fbbf24"/>
+  <!-- Finished Products -->
+  <rect x="620" y="270" width="25" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="655" y="270" width="25" height="20" rx="2" fill="#f8fafc"/>
+  <rect x="620" y="270" width="25" height="8" rx="1" fill="#3b82f6"/>
+  <rect x="655" y="270" width="25" height="8" rx="1" fill="#3b82f6"/>
+  <!-- Station Label -->
+  <rect x="625" y="275" width="70" height="15" rx="3" fill="#1e293b"/>
+  <text x="635" y="287" font-family="Arial" font-size="10" font-weight="bold" fill="#f8fafc">PAKETLEME</text>
+  
+  <!-- Control System -->
+  <rect x="320" y="50" width="160" height="80" rx="5" fill="#334155"/>
+  <rect x="330" y="60" width="140" height="60" rx="3" fill="#1e293b"/>
+  <!-- Main Display -->
+  <rect x="340" y="70" width="120" height="40" rx="2" fill="#0ea5e9"/>
+  <text x="350" y="95" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">ASSEMBLY LINE CONTROL</text>
+  <!-- Status Indicators -->
+  <circle cx="350" cy="115" r="5" fill="#22c55e"/>
+  <circle cx="370" cy="115" r="5" fill="#22c55e"/>
+  <circle cx="390" cy="115" r="5" fill="#fbbf24"/>
+  <circle cx="410" cy="115" r="5" fill="#22c55e"/>
+  <circle cx="430" cy="115" r="5" fill="#22c55e"/>
+  <circle cx="450" cy="115" r="5" fill="#22c55e"/>
+  
+  <!-- Connection Lines -->
+  <path d="M170 130L340 130" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M340 130L500 130" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M500 130L650 130" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M400 130L400 50" stroke="#64748b" stroke-width="3" fill="none"/>
+  
+  <!-- Products on Conveyor -->
+  <rect x="80" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="130" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="180" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="230" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="280" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="330" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="380" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="430" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="480" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="530" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="580" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="630" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  <rect x="680" y="285" width="15" height="15" rx="2" fill="#f8fafc"/>
+  
+  <!-- Component indicators on products -->
+  <circle cx="87" cy="292" r="2" fill="#3b82f6"/>
+  <circle cx="137" cy="292" r="2" fill="#ef4444"/>
+  <circle cx="187" cy="292" r="2" fill="#22c55e"/>
+  <circle cx="237" cy="292" r="2" fill="#fbbf24"/>
+  <circle cx="287" cy="292" r="2" fill="#3b82f6"/>
+  <circle cx="337" cy="292" r="2" fill="#ef4444"/>
+  <circle cx="387" cy="292" r="2" fill="#22c55e"/>
+  <circle cx="437" cy="292" r="2" fill="#fbbf24"/>
+  <circle cx="487" cy="292" r="2" fill="#3b82f6"/>
+  <circle cx="537" cy="292" r="2" fill="#ef4444"/>
+  <circle cx="587" cy="292" r="2" fill="#22c55e"/>
+  <circle cx="637" cy="292" r="2" fill="#fbbf24"/>
+  <circle cx="687" cy="292" r="2" fill="#3b82f6"/>
+  
+  <!-- Machine Label -->
+  <rect x="250" y="370" width="300" height="40" rx="5" fill="#1e293b"/>
+  <text x="290" y="397" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO ASSEMBLY LINE SYSTEM</text>
+</svg>

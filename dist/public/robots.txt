@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.berkomakina.com/sitemap.xml
+
+# Important pages for crawling
+Allow: /about
+Allow: /products
+Allow: /contact
+Allow: /about/quality-policy
+
+# Block unnecessary files
+Disallow: /src/
+Disallow: *.json
+Disallow: /node_modules/
+Disallow: /dist/
+
+# Allow all image files
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.gif
+Allow: *.svg
+Allow: *.webp
+
+# SEO friendly directives
+Crawl-delay: 1

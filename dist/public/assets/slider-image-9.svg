@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Shrink Sleeving Machine -->
+  
+  <!-- Main Machine Frame -->
+  <rect x="100" y="140" width="600" height="220" rx="8" fill="#cbd5e1"/>
+  <rect x="110" y="150" width="580" height="200" rx="6" fill="#e2e8f0"/>
+  
+  <!-- Film Roll -->
+  <circle cx="150" cy="200" r="40" fill="#f8fafc"/>
+  <circle cx="150" cy="200" r="35" fill="#e2e8f0"/>
+  <circle cx="150" cy="200" r="8" fill="#475569"/>
+  
+  <!-- Film Path -->
+  <rect x="200" y="180" width="150" height="40" rx="3" fill="#94a3b8"/>
+  <rect x="210" y="190" width="130" height="20" rx="2" fill="#64748b"/>
+  
+  <!-- Sleeve Forming Station -->
+  <rect x="380" y="160" width="120" height="80" rx="5" fill="#475569"/>
+  <rect x="390" y="170" width="100" height="60" rx="3" fill="#334155"/>
+  <!-- Forming Dies -->
+  <rect x="400" y="180" width="20" height="40" rx="2" fill="#1e293b"/>
+  <rect x="430" y="180" width="20" height="40" rx="2" fill="#1e293b"/>
+  <rect x="460" y="180" width="20" height="40" rx="2" fill="#1e293b"/>
+  
+  <!-- Bottles with Sleeves -->
+  <path d="M390 270V360H410V270L405 260L400 255L395 260L390 270Z" fill="#bfdbfe"/>
+  <rect x="390" y="250" width="20" height="40" rx="2" fill="#f8fafc" opacity="0.7"/>
+  <rect x="390" y="250" width="20" height="10" rx="1" fill="#ef4444"/>
+  
+  <path d="M420 270V360H440V270L435 260L430 255L425 260L420 270Z" fill="#bfdbfe"/>
+  <rect x="420" y="250" width="20" height="40" rx="2" fill="#f8fafc" opacity="0.7"/>
+  <rect x="420" y="250" width="20" height="10" rx="1" fill="#22c55e"/>
+  
+  <path d="M450 270V360H470V270L465 260L460 255L455 260L450 270Z" fill="#bfdbfe"/>
+  <rect x="450" y="250" width="20" height="40" rx="2" fill="#f8fafc" opacity="0.7"/>
+  <rect x="450" y="250" width="20" height="10" rx="1" fill="#3b82f6"/>
+  
+  <!-- Heat Tunnel -->
+  <rect x="520" y="140" width="150" height="140" rx="8" fill="#334155"/>
+  <rect x="530" y="150" width="130" height="120" rx="6" fill="#1e293b"/>
+  <!-- Heat Elements -->
+  <rect x="540" y="160" width="110" height="10" rx="2" fill="#ef4444"/>
+  <rect x="540" y="180" width="110" height="10" rx="2" fill="#ef4444"/>
+  <rect x="540" y="200" width="110" height="10" rx="2" fill="#ef4444"/>
+  <rect x="540" y="220" width="110" height="10" rx="2" fill="#ef4444"/>
+  <rect x="540" y="240" width="110" height="10" rx="2" fill="#ef4444"/>
+  
+  <!-- Temperature Display -->
+  <rect x="550" y="100" width="90" height="30" rx="3" fill="#0ea5e9"/>
+  <text x="565" y="120" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">TEMP: 165°C</text>
+  
+  <!-- Bottles After Shrinking -->
+  <path d="M540 290V360H560V290L555 280L550 275L545 280L540 290Z" fill="#bfdbfe"/>
+  <rect x="540" y="275" width="20" height="40" rx="2" fill="#ef4444" opacity="0.9"/>
+  
+  <path d="M570 290V360H590V290L585 280L580 275L575 280L570 290Z" fill="#bfdbfe"/>
+  <rect x="570" y="275" width="20" height="40" rx="2" fill="#22c55e" opacity="0.9"/>
+  
+  <path d="M600 290V360H620V290L615 280L610 275L605 280L600 290Z" fill="#bfdbfe"/>
+  <rect x="600" y="275" width="20" height="40" rx="2" fill="#3b82f6" opacity="0.9"/>
+  
+  <!-- Control Panel -->
+  <rect x="120" y="280" width="100" height="80" rx="5" fill="#334155"/>
+  <rect x="130" y="290" width="80" height="60" rx="3" fill="#1e293b"/>
+  <!-- Speed Control -->
+  <rect x="140" y="300" width="60" height="20" rx="2" fill="#0ea5e9"/>
+  <text x="145" y="315" font-family="Arial" font-size="10" fill="#f8fafc">SPEED: 150</text>
+  <!-- Buttons -->
+  <circle cx="150" cy="335" r="8" fill="#22c55e"/>
+  <circle cx="170" cy="335" r="8" fill="#ef4444"/>
+  <circle cx="190" cy="335" r="8" fill="#fbbf24"/>
+  
+  <!-- Conveyor System -->
+  <rect x="120" y="380" width="560" height="20" rx="3" fill="#64748b"/>
+  <rect x="125" y="380" width="550" height="3" fill="#475569"/>
+  <rect x="125" y="397" width="550" height="3" fill="#475569"/>
+  
+  <!-- Film Unwinding Path -->
+  <path d="M190 200L350 200" stroke="#f8fafc" stroke-width="8" fill="none" opacity="0.6"/>
+  
+  <!-- Machine Label -->
+  <rect x="250" y="410" width="300" height="30" rx="5" fill="#1e293b"/>
+  <text x="280" y="432" font-family="Arial" font-size="16" font-weight="bold" fill="#f8fafc">BERKO SHRINK SLEEVING MACHINE</text>
+</svg>

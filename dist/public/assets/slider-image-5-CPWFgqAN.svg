@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Cosmetics Industry Solutions -->
+  
+  <!-- Factory Floor -->
+  <rect x="50" y="350" width="700" height="50" fill="#94a3b8"/>
+  <line x1="50" y1="350" x2="750" y2="350" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Section 1: Cream Filling -->
+  <rect x="80" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="90" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Cream Tank -->
+  <rect x="110" y="170" width="90" height="50" rx="5" fill="#475569"/>
+  <rect x="115" y="175" width="80" height="40" rx="3" fill="#334155"/>
+  <!-- Filling Nozzles -->
+  <rect x="125" y="220" width="15" height="30" fill="#1e293b"/>
+  <rect x="150" y="220" width="15" height="30" fill="#1e293b"/>
+  <rect x="175" y="220" width="15" height="30" fill="#1e293b"/>
+  <!-- Jars -->
+  <path d="M117 280V350H137V280C137 275 132 270 127 270C122 270 117 275 117 280Z" fill="#f8fafc"/>
+  <path d="M117 280V290H137V280C137 275 132 270 127 270C122 270 117 275 117 280Z" fill="#fef9c3"/>
+  
+  <path d="M142 280V350H162V280C162 275 157 270 152 270C147 270 142 275 142 280Z" fill="#f8fafc"/>
+  <path d="M142 280V310H162V280C162 275 157 270 152 270C147 270 142 275 142 280Z" fill="#fef9c3"/>
+  
+  <path d="M167 280V350H187V280C187 275 182 270 177 270C172 270 167 275 167 280Z" fill="#f8fafc"/>
+  <path d="M167 280V300H187V280C187 275 182 270 177 270C172 270 167 275 167 280Z" fill="#fef9c3"/>
+  <!-- Section Label -->
+  <rect x="100" y="290" width="110" height="20" rx="3" fill="#eab308"/>
+  <text x="110" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#1e293b">KREM DOLUM</text>
+  
+  <!-- Section 2: Lotion Filling -->
+  <rect x="260" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="270" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Lotion Tank -->
+  <rect x="290" y="170" width="90" height="50" rx="5" fill="#475569"/>
+  <rect x="295" y="175" width="80" height="40" rx="3" fill="#334155"/>
+  <!-- Filling Nozzles -->
+  <rect x="305" y="220" width="10" height="30" fill="#1e293b"/>
+  <rect x="335" y="220" width="10" height="30" fill="#1e293b"/>
+  <rect x="365" y="220" width="10" height="30" fill="#1e293b"/>
+  <!-- Bottles -->
+  <path d="M300 280V350H320V280L315 270L310 265L305 270L300 280Z" fill="#f8fafc"/>
+  <path d="M300 280V300H320V280L315 270L310 265L305 270L300 280Z" fill="#bfdbfe"/>
+  
+  <path d="M330 280V350H350V280L345 270L340 265L335 270L330 280Z" fill="#f8fafc"/>
+  <path d="M330 280V320H350V280L345 270L340 265L335 270L330 280Z" fill="#bfdbfe"/>
+  
+  <path d="M360 280V350H380V280L375 270L370 265L365 270L360 280Z" fill="#f8fafc"/>
+  <path d="M360 280V310H380V280L375 270L370 265L365 270L360 280Z" fill="#bfdbfe"/>
+  <!-- Section Label -->
+  <rect x="280" y="290" width="110" height="20" rx="3" fill="#0ea5e9"/>
+  <text x="295" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">LOSYON DOLUM</text>
+  
+  <!-- Section 3: Perfume Filling -->
+  <rect x="440" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="450" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Perfume Tank -->
+  <rect x="470" y="170" width="90" height="50" rx="5" fill="#475569"/>
+  <rect x="475" y="175" width="80" height="40" rx="3" fill="#334155"/>
+  <!-- Filling Nozzles - Precision -->
+  <rect x="485" y="220" width="5" height="30" fill="#1e293b"/>
+  <rect x="515" y="220" width="5" height="30" fill="#1e293b"/>
+  <rect x="545" y="220" width="5" height="30" fill="#1e293b"/>
+  <!-- Perfume Bottles -->
+  <path d="M475 290V350H495V290L485 280L475 290Z" fill="#f8fafc"/>
+  <path d="M475 290V300H495V290L485 280L475 290Z" fill="#c084fc"/>
+  <rect x="480" y="275" width="10" height="5" rx="1" fill="#334155"/>
+  
+  <path d="M505 290V350H525V290L515 280L505 290Z" fill="#f8fafc"/>
+  <path d="M505 290V310H525V290L515 280L505 290Z" fill="#c084fc"/>
+  <rect x="510" y="275" width="10" height="5" rx="1" fill="#334155"/>
+  
+  <path d="M535 290V350H555V290L545 280L535 290Z" fill="#f8fafc"/>
+  <path d="M535 290V305H555V290L545 280L535 290Z" fill="#c084fc"/>
+  <rect x="540" y="275" width="10" height="5" rx="1" fill="#334155"/>
+  <!-- Section Label -->
+  <rect x="460" y="290" width="110" height="20" rx="3" fill="#a855f7"/>
+  <text x="480" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">PARFÜM DOLUM</text>
+  
+  <!-- Section 4: Packaging -->
+  <rect x="620" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="630" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Packaging Machine -->
+  <rect x="650" y="230" width="90" height="80" rx="5" fill="#94a3b8"/>
+  <rect x="660" y="240" width="70" height="60" rx="3" fill="#64748b"/>
+  <rect x="680" y="250" width="30" height="40" rx="2" fill="#475569"/>
+  <!-- Packaged Products -->
+  <rect x="655" y="320" width="20" height="30" rx="2" fill="#f8fafc"/>
+  <rect x="685" y="320" width="20" height="30" rx="2" fill="#f8fafc"/>
+  <rect x="715" y="320" width="20" height="30" rx="2" fill="#f8fafc"/>
+  <rect x="655" y="320" width="20" height="10" rx="1" fill="#fb7185"/>
+  <rect x="685" y="320" width="20" height="10" rx="1" fill="#fb7185"/>
+  <rect x="715" y="320" width="20" height="10" rx="1" fill="#fb7185"/>
+  <!-- Section Label -->
+  <rect x="640" y="290" width="110" height="20" rx="3" fill="#ec4899"/>
+  <text x="665" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">PAKETLEME</text>
+  
+  <!-- Connecting Conveyor Belts -->
+  <rect x="230" y="320" width="30" height="10" fill="#64748b"/>
+  <rect x="410" y="320" width="30" height="10" fill="#64748b"/>
+  <rect x="590" y="320" width="30" height="10" fill="#64748b"/>
+  
+  <!-- Main Control System -->
+  <rect x="350" y="100" width="100" height="60" rx="5" fill="#334155"/>
+  <rect x="360" y="110" width="80" height="40" rx="3" fill="#1e293b"/>
+  <circle cx="375" cy="130" r="8" fill="#22c55e"/>
+  <circle cx="400" cy="130" r="8" fill="#ef4444"/>
+  <rect x="365" cy="150" width="70" height="10" rx="2" fill="#475569"/>
+  
+  <!-- Title -->
+  <rect x="200" y="380" width="400" height="40" rx="5" fill="#d946ef"/>
+  <text x="245" y="407" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO KOZMETİK SEKTÖRÜ ÇÖZÜMLERİ</text>
+</svg>
