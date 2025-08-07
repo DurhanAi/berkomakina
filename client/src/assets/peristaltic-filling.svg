@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380" fill="none">
+  <!-- Background -->
+  <rect width="500" height="380" fill="#f8fafc"/>
+  
+  <!-- Peristaltic Filling Machine -->
+  
+  <!-- Main Machine Frame -->
+  <rect x="100" y="140" width="300" height="150" rx="8" fill="#cbd5e1"/>
+  <rect x="110" y="150" width="280" height="130" rx="6" fill="#e2e8f0"/>
+  
+  <!-- Product Tank -->
+  <rect x="160" y="80" width="120" height="70" rx="5" fill="#475569"/>
+  <rect x="170" y="90" width="100" height="50" rx="3" fill="#334155"/>
+  
+  <!-- Viscous Liquid in Tank -->
+  <rect x="175" y="95" width="90" height="35" rx="2" fill="#fbbf24"/>
+  <path d="M175 115L185 110L195 115L205 110L215 115L225 110L235 115L245 110L255 115L265 110" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  
+  <!-- Peristaltic Pump Head -->
+  <circle cx="220" cy="200" r="35" fill="#64748b"/>
+  <circle cx="220" cy="200" r="30" fill="#475569"/>
+  <circle cx="220" cy="200" r="25" fill="#334155"/>
+  
+  <!-- Rollers in Pump -->
+  <circle cx="205" cy="185" r="6" fill="#94a3b8"/>
+  <circle cx="235" cy="185" r="6" fill="#94a3b8"/>
+  <circle cx="240" cy="210" r="6" fill="#94a3b8"/>
+  <circle cx="225" cy="225" r="6" fill="#94a3b8"/>
+  <circle cx="200" cy="215" r="6" fill="#94a3b8"/>
+  
+  <!-- Flexible Tube -->
+  <path d="M220 165L220 140" stroke="#22c55e" stroke-width="8" fill="none"/>
+  <path d="M255 200L290 200L290 240L250 240" stroke="#22c55e" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Tube Connections -->
+  <rect x="215" y="160" width="10" height="10" rx="2" fill="#1e293b"/>
+  <rect x="245" y="235" width="10" height="10" rx="2" fill="#1e293b"/>
+  
+  <!-- Filling Nozzle -->
+  <rect x="245" y="245" width="10" height="40" rx="2" fill="#334155"/>
+  
+  <!-- Liquid Flow -->
+  <path d="M250 285L250 300" stroke="#fbbf24" stroke-width="6" fill="none"/>
+  
+  <!-- Bottle with Viscous Product -->
+  <path d="M235 310V350H265V310L260 300L250 295L240 300L235 310Z" fill="#f8fafc"/>
+  <path d="M235 310V325H265V310L260 300L250 295L240 300L235 310Z" fill="#fbbf24"/>
+  
+  <!-- Motor -->
+  <rect x="300" y="180" width="60" height="40" rx="5" fill="#1e293b"/>
+  <rect x="310" y="190" width="40" height="20" rx="2" fill="#334155"/>
+  <circle cx="330" cy="200" r="8" fill="#64748b"/>
+  <text x="315" y="215" font-family="Arial" font-size="8" fill="#f8fafc">MOTOR</text>
+  
+  <!-- Drive Belt -->
+  <path d="M255 200L300 200" stroke="#94a3b8" stroke-width="4" fill="none"/>
+  
+  <!-- Control Panel -->
+  <rect x="120" y="170" width="70" height="80" rx="5" fill="#334155"/>
+  <rect x="130" y="180" width="50" height="60" rx="3" fill="#1e293b"/>
+  
+  <!-- Speed Control -->
+  <rect x="140" y="190" width="30" height="20" rx="2" fill="#0ea5e9"/>
+  <text x="145" y="205" font-family="Arial" font-size="8" fill="#f8fafc">RPM:45</text>
+  
+  <!-- Flow Rate Display -->
+  <rect x="135" y="220" width="40" height="15" rx="2" fill="#22c55e"/>
+  <text x="140" y="230" font-family="Arial" font-size="8" fill="#1e293b">2.4L/min</text>
+  
+  <!-- Tube Holder -->
+  <rect x="190" y="165" width="60" height="15" rx="3" fill="#94a3b8"/>
+  <rect x="195" y="170" width="50" height="5" rx="1" fill="#64748b"/>
+  
+  <!-- Support Structure -->
+  <rect x="150" y="290" width="8" height="60" fill="#475569"/>
+  <rect x="250" y="290" width="8" height="60" fill="#475569"/>
+  <rect x="330" y="290" width="8" height="60" fill="#475569"/>
+  
+  <!-- Base Platform -->
+  <rect x="120" y="350" width="240" height="15" rx="3" fill="#64748b"/>
+  
+  <!-- Machine Label -->
+  <rect x="160" y="365" width="180" height="15" rx="3" fill="#1e293b"/>
+  <text x="175" y="376" font-family="Arial" font-size="10" font-weight="bold" fill="#fbbf24">PERİSTALTİK POMPA DOLUM</text>
+</svg>

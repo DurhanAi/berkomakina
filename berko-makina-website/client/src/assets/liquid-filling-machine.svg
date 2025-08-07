@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380" fill="none">
+  <!-- Background -->
+  <rect width="500" height="380" fill="#f8fafc"/>
+  
+  <!-- Liquid Filling Machine -->
+  
+  <!-- Main Machine Frame -->
+  <rect x="80" y="120" width="340" height="180" rx="8" fill="#cbd5e1"/>
+  <rect x="90" y="130" width="320" height="160" rx="6" fill="#e2e8f0"/>
+  
+  <!-- Tank System -->
+  <rect x="150" y="80" width="200" height="50" rx="5" fill="#475569"/>
+  <rect x="160" y="90" width="180" height="30" rx="3" fill="#334155"/>
+  
+  <!-- Liquid in Tank -->
+  <rect x="165" y="95" width="170" height="20" rx="2" fill="#3b82f6"/>
+  <path d="M165 105L175 100L185 105L195 100L205 105L215 100L225 105L235 100L245 105L255 100L265 105L275 100L285 105L295 100L305 105L315 100L325 105L335 100" stroke="#1d4ed8" stroke-width="2" fill="none"/>
+  
+  <!-- Filling Nozzles -->
+  <rect x="170" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  <rect x="200" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  <rect x="230" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  <rect x="260" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  <rect x="290" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  <rect x="320" y="130" width="12" height="40" rx="2" fill="#1e293b"/>
+  
+  <!-- Liquid Flow -->
+  <path d="M176 170L176 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  <path d="M206 170L206 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  <path d="M236 170L236 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  <path d="M266 170L266 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  <path d="M296 170L296 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  <path d="M326 170L326 200" stroke="#3b82f6" stroke-width="4" fill="none"/>
+  
+  <!-- Bottles -->
+  <path d="M165 220V320H185V220L182 210L176 205L170 210L165 220Z" fill="#f8fafc"/>
+  <path d="M165 220V250H185V220L182 210L176 205L170 210L165 220Z" fill="#3b82f6"/>
+  
+  <path d="M195 220V320H215V220L212 210L206 205L200 210L195 220Z" fill="#f8fafc"/>
+  <path d="M195 220V240H215V220L212 210L206 205L200 210L195 220Z" fill="#3b82f6"/>
+  
+  <path d="M225 220V320H245V220L242 210L236 205L230 210L225 220Z" fill="#f8fafc"/>
+  <path d="M225 220V260H245V220L242 210L236 205L230 210L225 220Z" fill="#3b82f6"/>
+  
+  <path d="M255 220V320H275V220L272 210L266 205L260 210L255 220Z" fill="#f8fafc"/>
+  <path d="M255 220V245H275V220L272 210L266 205L260 210L255 220Z" fill="#3b82f6"/>
+  
+  <path d="M285 220V320H305V220L302 210L296 205L290 210L285 220Z" fill="#f8fafc"/>
+  <path d="M285 220V270H305V220L302 210L296 205L290 210L285 220Z" fill="#3b82f6"/>
+  
+  <path d="M315 220V320H335V220L332 210L326 205L320 210L315 220Z" fill="#f8fafc"/>
+  <path d="M315 220V255H335V220L332 210L326 205L320 210L315 220Z" fill="#3b82f6"/>
+  
+  <!-- Control Panel -->
+  <rect x="100" y="150" width="60" height="100" rx="5" fill="#334155"/>
+  <rect x="110" y="160" width="40" height="80" rx="3" fill="#1e293b"/>
+  
+  <!-- Display Screen -->
+  <rect x="115" y="170" width="30" height="25" rx="2" fill="#0ea5e9"/>
+  <text x="120" y="187" font-family="Arial" font-size="8" fill="#f8fafc">FLOW: 45L/min</text>
+  
+  <!-- Control Buttons -->
+  <circle cx="125" cy="210" r="6" fill="#22c55e"/>
+  <circle cx="140" cy="210" r="6" fill="#ef4444"/>
+  <rect x="115" y="225" width="25" height="3" rx="1" fill="#64748b"/>
+  <rect x="115" y="235" width="25" height="3" rx="1" fill="#64748b"/>
+  
+  <!-- Pump System -->
+  <rect x="360" y="180" width="50" height="40" rx="3" fill="#94a3b8"/>
+  <rect x="370" y="190" width="30" height="20" rx="2" fill="#64748b"/>
+  <circle cx="385" cy="200" r="8" fill="#334155"/>
+  <circle cx="385" cy="200" r="4" fill="#1e293b"/>
+  
+  <!-- Pump Connection -->
+  <path d="M350 140L385 180" stroke="#475569" stroke-width="4" fill="none"/>
+  
+  <!-- Conveyor Belt -->
+  <rect x="100" y="330" width="300" height="20" rx="3" fill="#64748b"/>
+  <rect x="105" y="330" width="290" height="3" fill="#475569"/>
+  <rect x="105" y="347" width="290" height="3" fill="#475569"/>
+  
+  <!-- Machine Support -->
+  <rect x="120" y="290" width="10" height="40" fill="#475569"/>
+  <rect x="200" y="290" width="10" height="40" fill="#475569"/>
+  <rect x="280" y="290" width="10" height="40" fill="#475569"/>
+  <rect x="360" y="290" width="10" height="40" fill="#475569"/>
+  
+  <!-- Sensors -->
+  <rect x="350" y="140" width="15" height="20" rx="2" fill="#ef4444"/>
+  <circle cx="357" cy="150" r="3" fill="#fbbf24"/>
+  
+  <!-- Machine Label -->
+  <rect x="170" y="360" width="160" height="20" rx="3" fill="#1e293b"/>
+  <text x="185" y="375" font-family="Arial" font-size="12" font-weight="bold" fill="#3b82f6">BERKO SIVI DOLUM</text>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380" fill="none">
+  <!-- Background -->
+  <rect width="500" height="380" fill="#f8fafc"/>
+  
+  <!-- Large Industrial Filling Line -->
+  
+  <!-- Main Frame -->
+  <rect x="30" y="120" width="440" height="180" rx="5" fill="#94a3b8"/>
+  <rect x="35" y="125" width="430" height="170" rx="4" fill="#cbd5e1"/>
+  
+  <!-- Control Cabinet -->
+  <rect x="40" y="140" width="60" height="120" rx="3" fill="#334155"/>
+  <rect x="45" y="145" width="50" height="80" rx="2" fill="#1e293b"/>
+  <circle cx="55" cy="155" r="5" fill="#22c55e"/>
+  <circle cx="70" cy="155" r="5" fill="#eab308"/>
+  <circle cx="85" cy="155" r="5" fill="#ef4444"/>
+  
+  <!-- TouchScreen Display -->
+  <rect x="50" y="170" width="40" height="30" rx="2" fill="#0ea5e9"/>
+  <rect x="53" y="173" width="34" height="24" rx="1" fill="#0369a1"/>
+  <rect x="55" y="175" width="30" height="20" rx="1" fill="#0c4a6e"/>
+  
+  <!-- Buttons Panel -->
+  <rect x="50" y="210" width="40" height="20" rx="2" fill="#1e293b"/>
+  <circle cx="60" cy="220" r="5" fill="#22c55e"/>
+  <circle cx="75" cy="220" r="5" fill="#ef4444"/>
+  
+  <!-- Main Machine Line -->
+  <rect x="120" y="130" width="330" height="140" rx="2" fill="#e2e8f0"/>
+  
+  <!-- Bottle Transfer System -->
+  <rect x="120" y="270" width="330" height="15" rx="1" fill="#64748b"/>
+  <rect x="125" y="275" width="320" height="5" rx="1" fill="#475569"/>
+  
+  <!-- Filling Stations (Multiple) -->
+  <rect x="140" y="90" width="290" height="40" rx="3" fill="#475569"/>
+  <rect x="145" y="95" width="280" height="30" rx="2" fill="#64748b"/>
+  
+  <!-- Filling Nozzles (Multiple) -->
+  <rect x="150" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="180" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="210" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="240" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="270" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="300" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="330" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="360" y="130" width="10" height="30" fill="#334155"/>
+  <rect x="390" y="130" width="10" height="30" fill="#334155"/>
+  
+  <!-- Bottles on Conveyor -->
+  <path d="M150 210V270H165V210L162 200L157 195L152 200L150 210Z" fill="#bfdbfe"/>
+  <path d="M150 210V230H165V210L162 200L157 195L152 200L150 210Z" fill="#3b82f6"/>
+  
+  <path d="M180 210V270H195V210L192 200L187 195L182 200L180 210Z" fill="#bfdbfe"/>
+  <path d="M180 210V220H195V210L192 200L187 195L182 200L180 210Z" fill="#3b82f6"/>
+  
+  <path d="M210 210V270H225V210L222 200L217 195L212 200L210 210Z" fill="#bfdbfe"/>
+  <path d="M210 210V235H225V210L222 200L217 195L212 200L210 210Z" fill="#3b82f6"/>
+  
+  <path d="M240 210V270H255V210L252 200L247 195L242 200L240 210Z" fill="#bfdbfe"/>
+  <path d="M240 210V225H255V210L252 200L247 195L242 200L240 210Z" fill="#3b82f6"/>
+  
+  <path d="M270 210V270H285V210L282 200L277 195L272 200L270 210Z" fill="#bfdbfe"/>
+  <path d="M270 210V230H285V210L282 200L277 195L272 200L270 210Z" fill="#3b82f6"/>
+  
+  <path d="M300 210V270H315V210L312 200L307 195L302 200L300 210Z" fill="#bfdbfe"/>
+  <path d="M300 210V235H315V210L312 200L307 195L302 200L300 210Z" fill="#3b82f6"/>
+  
+  <path d="M330 210V270H345V210L342 200L337 195L332 200L330 210Z" fill="#bfdbfe"/>
+  <path d="M330 210V225H345V210L342 200L337 195L332 200L330 210Z" fill="#3b82f6"/>
+  
+  <path d="M360 210V270H375V210L372 200L367 195L362 200L360 210Z" fill="#bfdbfe"/>
+  <path d="M360 210V230H375V210L372 200L367 195L362 200L360 210Z" fill="#3b82f6"/>
+  
+  <path d="M390 210V270H405V210L402 200L397 195L392 200L390 210Z" fill="#bfdbfe"/>
+  <path d="M390 210V225H405V210L402 200L397 195L392 200L390 210Z" fill="#3b82f6"/>
+  
+  <!-- Main Conveyor -->
+  <rect x="30" y="320" width="440" height="30" rx="4" fill="#94a3b8"/>
+  <rect x="35" y="325" width="430" height="20" rx="3" fill="#64748b"/>
+  <rect x="40" y="330" width="420" height="10" rx="2" fill="#475569"/>
+  
+  <!-- Support Structure -->
+  <rect x="40" y="300" width="15" height="20" fill="#334155"/>
+  <rect x="120" y="300" width="15" height="20" fill="#334155"/>
+  <rect x="200" y="300" width="15" height="20" fill="#334155"/>
+  <rect x="280" y="300" width="15" height="20" fill="#334155"/>
+  <rect x="360" y="300" width="15" height="20" fill="#334155"/>
+  <rect x="440" y="300" width="15" height="20" fill="#334155"/>
+  
+  <!-- Piping System -->
+  <path d="M155 90V70H155V40H440V70H400V90" stroke="#475569" stroke-width="4" fill="none"/>
+  <circle cx="155" cy="40" r="5" fill="#0ea5e9"/>
+  <circle cx="215" cy="40" r="5" fill="#0ea5e9"/>
+  <circle cx="275" cy="40" r="5" fill="#0ea5e9"/>
+  <circle cx="335" cy="40" r="5" fill="#0ea5e9"/>
+  <circle cx="395" cy="40" r="5" fill="#0ea5e9"/>
+  
+  <!-- Machine Label -->
+  <rect x="170" y="180" width="230" height="20" rx="3" fill="#0f172a"/>
+  <text x="180" y="195" font-family="Arial" font-size="14" font-weight="bold" fill="#ffffff">BERKO TAM OTOMATİK DOLUM HATTI</text>
+</svg>

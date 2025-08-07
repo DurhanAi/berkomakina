@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Fully Automatic Production Line -->
+  
+  <!-- Conveyor System Base -->
+  <rect x="50" y="350" width="700" height="30" rx="5" fill="#64748b"/>
+  <rect x="55" y="350" width="690" height="5" fill="#475569"/>
+  <rect x="55" y="375" width="690" height="5" fill="#475569"/>
+  
+  <!-- Machine 1: Bottle Rinser -->
+  <rect x="80" y="180" width="120" height="170" rx="5" fill="#cbd5e1"/>
+  <rect x="90" y="190" width="100" height="150" rx="3" fill="#e2e8f0"/>
+  <rect x="100" y="150" width="80" height="40" rx="3" fill="#475569"/>
+  <!-- Rinser Nozzles -->
+  <rect x="110" y="190" width="8" height="30" fill="#1e293b"/>
+  <rect x="130" y="190" width="8" height="30" fill="#1e293b"/>
+  <rect x="150" y="190" width="8" height="30" fill="#1e293b"/>
+  <rect x="170" y="190" width="8" height="30" fill="#1e293b"/>
+  <!-- Rinser Label -->
+  <rect x="100" y="300" width="80" height="20" rx="3" fill="#94a3b8"/>
+  <text x="110" y="315" font-family="Arial" font-size="10" font-weight="bold" fill="#1e293b">YIKAMA</text>
+  
+  <!-- Machine 2: Filler -->
+  <rect x="250" y="150" width="160" height="200" rx="5" fill="#cbd5e1"/>
+  <rect x="260" y="160" width="140" height="180" rx="3" fill="#e2e8f0"/>
+  <rect x="270" y="120" width="120" height="40" rx="3" fill="#475569"/>
+  <!-- Filler Nozzles -->
+  <rect x="280" y="160" width="10" height="40" fill="#1e293b"/>
+  <rect x="310" y="160" width="10" height="40" fill="#1e293b"/>
+  <rect x="340" y="160" width="10" height="40" fill="#1e293b"/>
+  <rect x="370" y="160" width="10" height="40" fill="#1e293b"/>
+  <!-- Bottles -->
+  <path d="M275 280V350H290V280L287 265L282 260L277 265L275 280Z" fill="#bfdbfe"/>
+  <path d="M275 280V300H290V280L287 265L282 260L277 265L275 280Z" fill="#3b82f6"/>
+  
+  <path d="M305 280V350H320V280L317 265L312 260L307 265L305 280Z" fill="#bfdbfe"/>
+  <path d="M305 280V290H320V280L317 265L312 260L307 265L305 280Z" fill="#3b82f6"/>
+  
+  <path d="M335 280V350H350V280L347 265L342 260L337 265L335 280Z" fill="#bfdbfe"/>
+  <path d="M335 280V310H350V280L347 265L342 260L337 265L335 280Z" fill="#3b82f6"/>
+  
+  <path d="M365 280V350H380V280L377 265L372 260L367 265L365 280Z" fill="#bfdbfe"/>
+  <path d="M365 280V295H380V280L377 265L372 260L367 265L365 280Z" fill="#3b82f6"/>
+  <!-- Filler Label -->
+  <rect x="285" y="220" width="90" height="20" rx="3" fill="#94a3b8"/>
+  <text x="295" y="235" font-family="Arial" font-size="10" font-weight="bold" fill="#1e293b">DOLUM</text>
+  
+  <!-- Machine 3: Capper -->
+  <rect x="460" y="180" width="120" height="170" rx="5" fill="#cbd5e1"/>
+  <rect x="470" y="190" width="100" height="150" rx="3" fill="#e2e8f0"/>
+  <!-- Capper Mechanism -->
+  <rect x="490" y="160" width="60" height="30" rx="2" fill="#475569"/>
+  <rect x="505" y="190" width="30" height="40" fill="#334155"/>
+  <!-- Bottles with Caps -->
+  <path d="M495 280V350H510V280L507 265L502 260L497 265L495 280Z" fill="#bfdbfe"/>
+  <path d="M495 280V295H510V280L507 265L502 260L497 265L495 280Z" fill="#3b82f6"/>
+  <rect x="495" y="258" width="15" height="7" rx="1" fill="#0f172a"/>
+  
+  <path d="M525 280V350H540V280L537 265L532 260L527 265L525 280Z" fill="#bfdbfe"/>
+  <path d="M525 280V315H540V280L537 265L532 260L527 265L525 280Z" fill="#3b82f6"/>
+  <rect x="525" y="258" width="15" height="7" rx="1" fill="#0f172a"/>
+  <!-- Capper Label -->
+  <rect x="485" y="300" width="70" height="20" rx="3" fill="#94a3b8"/>
+  <text x="490" y="315" font-family="Arial" font-size="10" font-weight="bold" fill="#1e293b">KAPATMA</text>
+  
+  <!-- Machine 4: Labeler -->
+  <rect x="630" y="180" width="100" height="170" rx="5" fill="#cbd5e1"/>
+  <rect x="640" y="190" width="80" height="150" rx="3" fill="#e2e8f0"/>
+  <!-- Labeler Mechanism -->
+  <rect x="650" y="200" width="60" height="50" rx="3" fill="#94a3b8"/>
+  <rect x="655" y="210" width="50" height="30" rx="2" fill="#64748b"/>
+  <!-- Labeled Bottles -->
+  <path d="M650 280V350H665V280L662 265L657 260L652 265L650 280Z" fill="#bfdbfe"/>
+  <path d="M650 280V305H665V280L662 265L657 260L652 265L650 280Z" fill="#3b82f6"/>
+  <rect x="650" y="258" width="15" height="7" rx="1" fill="#0f172a"/>
+  <rect x="648" y="290" width="19" height="25" rx="1" fill="#f8fafc"/>
+  
+  <path d="M675 280V350H690V280L687 265L682 260L677 265L675 280Z" fill="#bfdbfe"/>
+  <path d="M675 280V290H690V280L687 265L682 260L677 265L675 280Z" fill="#3b82f6"/>
+  <rect x="675" y="258" width="15" height="7" rx="1" fill="#0f172a"/>
+  <rect x="673" y="290" width="19" height="25" rx="1" fill="#f8fafc"/>
+  <!-- Labeler Label -->
+  <rect x="650" y="260" width="60" height="16" rx="3" fill="#94a3b8"/>
+  <text x="652" y="272" font-family="Arial" font-size="9" font-weight="bold" fill="#1e293b">ETİKETLEME</text>
+  
+  <!-- Connection Pipes and Wires -->
+  <path d="M140 120V80H330V120" stroke="#64748b" stroke-width="2" fill="none" />
+  <path d="M330 120V80H520V160" stroke="#64748b" stroke-width="2" fill="none" />
+  <path d="M520 160V80H680V200" stroke="#64748b" stroke-width="2" fill="none" />
+  
+  <!-- Control Interface -->
+  <rect x="350" y="50" width="100" height="50" rx="5" fill="#334155"/>
+  <rect x="360" y="60" width="80" height="30" rx="3" fill="#1e293b"/>
+  <text x="370" y="80" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">KONTROL</text>
+  
+  <!-- Main Title -->
+  <rect x="200" y="400" width="400" height="30" rx="5" fill="#0f172a"/>
+  <text x="230" y="422" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO TAM OTOMATİK ÜRETİM HATTI</text>
+</svg>

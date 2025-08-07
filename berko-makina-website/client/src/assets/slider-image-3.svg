@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Industrial Filling Solutions -->
+  
+  <!-- Factory Environment -->
+  <rect x="50" y="100" width="700" height="250" rx="10" fill="#e2e8f0"/>
+  <rect x="50" y="350" width="700" height="30" rx="5" fill="#64748b"/>
+  
+  <!-- Multiple Filling Stations -->
+  
+  <!-- Station 1: Liquid Filling -->
+  <rect x="80" y="150" width="150" height="200" rx="5" fill="#cbd5e1"/>
+  <rect x="90" y="160" width="130" height="180" rx="3" fill="#94a3b8"/>
+  <!-- Filling Head -->
+  <rect x="110" y="120" width="90" height="40" rx="3" fill="#475569"/>
+  <rect x="125" y="160" width="10" height="30" fill="#1e293b"/>
+  <rect x="145" y="160" width="10" height="30" fill="#1e293b"/>
+  <rect x="165" y="160" width="10" height="30" fill="#1e293b"/>
+  <!-- Bottles -->
+  <path d="M120 240V350H135V240L132 230L127 225L122 230L120 240Z" fill="#bfdbfe"/>
+  <path d="M120 240V270H135V240L132 230L127 225L122 230L120 240Z" fill="#3b82f6"/>
+  
+  <path d="M140 240V350H155V240L152 230L147 225L142 230L140 240Z" fill="#dbeafe"/>
+  <path d="M140 240V260H155V240L152 230L147 225L142 230L140 240Z" fill="#3b82f6"/>
+  
+  <path d="M160 240V350H175V240L172 230L167 225L162 230L160 240Z" fill="#bfdbfe"/>
+  <path d="M160 240V290H175V240L172 230L167 225L162 230L160 240Z" fill="#3b82f6"/>
+  <!-- Station Label -->
+  <rect x="100" y="200" width="110" height="20" rx="3" fill="#1e293b"/>
+  <text x="105" y="215" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">SIVI DOLUM</text>
+  
+  <!-- Station 2: Paste Filling -->
+  <rect x="260" y="150" width="150" height="200" rx="5" fill="#cbd5e1"/>
+  <rect x="270" y="160" width="130" height="180" rx="3" fill="#94a3b8"/>
+  <!-- Filling Head -->
+  <rect x="290" y="120" width="90" height="40" rx="3" fill="#475569"/>
+  <rect x="305" y="160" width="15" height="30" fill="#1e293b"/>
+  <rect x="330" y="160" width="15" height="30" fill="#1e293b"/>
+  <rect x="355" y="160" width="15" height="30" fill="#1e293b"/>
+  <!-- Jars -->
+  <path d="M300 250V350H320V250C320 245 315 240 310 240C305 240 300 245 300 250Z" fill="#f1f5f9"/>
+  <path d="M300 250V270H320V250C320 245 315 240 310 240C305 240 300 245 300 250Z" fill="#fde68a"/>
+  
+  <path d="M325 250V350H345V250C345 245 340 240 335 240C330 240 325 245 325 250Z" fill="#f1f5f9"/>
+  <path d="M325 250V290H345V250C345 245 340 240 335 240C330 240 325 245 325 250Z" fill="#fde68a"/>
+  
+  <path d="M350 250V350H370V250C370 245 365 240 360 240C355 240 350 245 350 250Z" fill="#f1f5f9"/>
+  <path d="M350 250V280H370V250C370 245 365 240 360 240C355 240 350 245 350 250Z" fill="#fde68a"/>
+  <!-- Station Label -->
+  <rect x="280" y="200" width="110" height="20" rx="3" fill="#1e293b"/>
+  <text x="293" y="215" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">MACUN DOLUM</text>
+  
+  <!-- Station 3: Powder Filling -->
+  <rect x="440" y="150" width="150" height="200" rx="5" fill="#cbd5e1"/>
+  <rect x="450" y="160" width="130" height="180" rx="3" fill="#94a3b8"/>
+  <!-- Filling Head -->
+  <rect x="470" y="120" width="90" height="40" rx="3" fill="#475569"/>
+  <rect x="485" y="160" width="20" height="40" fill="#1e293b"/>
+  <rect x="515" y="160" width="20" height="40" fill="#1e293b"/>
+  <rect x="490" y="160" width="40" height="15" fill="#334155"/>
+  <!-- Containers -->
+  <rect x="480" y="250" width="30" height="100" rx="3" fill="#e2e8f0"/>
+  <rect x="480" y="250" width="30" height="30" rx="2" fill="#d1d5db"/>
+  <rect x="520" y="250" width="30" height="100" rx="3" fill="#e2e8f0"/>
+  <rect x="520" y="250" width="30" height="40" rx="2" fill="#d1d5db"/>
+  <!-- Station Label -->
+  <rect x="460" y="200" width="110" height="20" rx="3" fill="#1e293b"/>
+  <text x="467" y="215" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">TOZ DOLUM</text>
+  
+  <!-- Station 4: Granule Filling -->
+  <rect x="620" y="150" width="150" height="200" rx="5" fill="#cbd5e1"/>
+  <rect x="630" y="160" width="130" height="180" rx="3" fill="#94a3b8"/>
+  <!-- Filling Head -->
+  <rect x="650" y="120" width="90" height="40" rx="3" fill="#475569"/>
+  <path d="M665 160V200" stroke="#1e293b" stroke-width="20" stroke-linecap="round"/>
+  <path d="M705 160V200" stroke="#1e293b" stroke-width="20" stroke-linecap="round"/>
+  <!-- Bags -->
+  <path d="M650 250L650 350H680V250L665 240L650 250Z" fill="#f1f5f9"/>
+  <path d="M650 250L650 280H680V250L665 240L650 250Z" fill="#a7f3d0"/>
+  
+  <path d="M690 250L690 350H720V250L705 240L690 250Z" fill="#f1f5f9"/>
+  <path d="M690 250L690 290H720V250L705 240L690 250Z" fill="#a7f3d0"/>
+  <!-- Station Label -->
+  <rect x="640" y="200" width="110" height="20" rx="3" fill="#1e293b"/>
+  <text x="648" y="215" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">GRANÜL DOLUM</text>
+  
+  <!-- Central Control System -->
+  <rect x="350" y="50" width="100" height="50" rx="5" fill="#334155"/>
+  <rect x="360" y="60" width="80" height="30" rx="3" fill="#1e293b"/>
+  <circle cx="375" cy="75" r="7" fill="#22c55e"/>
+  <circle cx="395" cy="75" r="7" fill="#eab308"/>
+  <circle cx="415" cy="75" r="7" fill="#ef4444"/>
+  
+  <!-- Connectors -->
+  <path d="M155 120V90H335V120" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M335 120V90H515V120" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M515 120V90H695V120" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M400 90V50" stroke="#64748b" stroke-width="3" fill="none"/>
+  
+  <!-- Title -->
+  <rect x="200" y="380" width="400" height="40" rx="5" fill="#0f172a"/>
+  <text x="240" y="407" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO ENDÜSTRİYEL DOLUM ÇÖZÜMLERİ</text>
+</svg>

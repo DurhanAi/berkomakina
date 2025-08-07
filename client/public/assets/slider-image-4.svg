@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Food Industry Solutions -->
+  
+  <!-- Factory Floor -->
+  <rect x="50" y="350" width="700" height="50" fill="#94a3b8"/>
+  <line x1="50" y1="350" x2="750" y2="350" stroke="#64748b" stroke-width="2"/>
+  
+  <!-- Food Processing Line -->
+  
+  <!-- Section 1: Food Preparation -->
+  <rect x="80" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="90" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Mixing Bowl -->
+  <ellipse cx="155" cy="250" rx="50" ry="20" fill="#e2e8f0"/>
+  <ellipse cx="155" cy="250" rx="40" ry="15" fill="#cbd5e1"/>
+  <path d="M125 250C125 250 135 235 155 235C175 235 185 250 185 250" stroke="#64748b" stroke-width="3" fill="none"/>
+  <!-- Mixer -->
+  <rect x="150" y="200" width="10" height="35" fill="#64748b"/>
+  <path d="M145 240L155 260L165 240" stroke="#64748b" stroke-width="3" fill="none"/>
+  <path d="M140 235L155 255L170 235" stroke="#64748b" stroke-width="3" fill="none"/>
+  <!-- Food Items -->
+  <circle cx="125" cy="245" r="8" fill="#a3e635"/>
+  <circle cx="140" cy="240" r="7" fill="#fde68a"/>
+  <circle cx="170" cy="245" r="10" fill="#fb923c"/>
+  <!-- Section Label -->
+  <rect x="100" y="290" width="110" height="20" rx="3" fill="#16a34a"/>
+  <text x="110" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">GIDA HAZIRLAMA</text>
+  
+  <!-- Section 2: Sauce Filling -->
+  <rect x="260" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="270" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Sauce Tank -->
+  <rect x="290" y="170" width="90" height="50" rx="5" fill="#475569"/>
+  <rect x="295" y="175" width="80" height="40" rx="3" fill="#334155"/>
+  <!-- Filling Nozzles -->
+  <rect x="310" y="220" width="10" height="30" fill="#1e293b"/>
+  <rect x="330" y="220" width="10" height="30" fill="#1e293b"/>
+  <rect x="350" y="220" width="10" height="30" fill="#1e293b"/>
+  <!-- Jars -->
+  <path d="M300 280V350H320V280C320 275 315 270 310 270C305 270 300 275 300 280Z" fill="#f1f5f9"/>
+  <path d="M300 280V310H320V280C320 275 315 270 310 270C305 270 300 275 300 280Z" fill="#fb923c"/>
+  
+  <path d="M320 280V350H340V280C340 275 335 270 330 270C325 270 320 275 320 280Z" fill="#f1f5f9"/>
+  <path d="M320 280V320H340V280C340 275 335 270 330 270C325 270 320 275 320 280Z" fill="#fb923c"/>
+  
+  <path d="M340 280V350H360V280C360 275 355 270 350 270C345 270 340 275 340 280Z" fill="#f1f5f9"/>
+  <path d="M340 280V300H360V280C360 275 355 270 350 270C345 270 340 275 340 280Z" fill="#fb923c"/>
+  <!-- Section Label -->
+  <rect x="280" y="290" width="110" height="20" rx="3" fill="#ea580c"/>
+  <text x="295" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">SOS DOLUM</text>
+  
+  <!-- Section 3: Packaging -->
+  <rect x="440" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="450" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Packaging Machine -->
+  <rect x="470" y="230" width="90" height="80" rx="5" fill="#94a3b8"/>
+  <rect x="480" y="240" width="70" height="60" rx="3" fill="#64748b"/>
+  <rect x="500" y="250" width="30" height="40" rx="2" fill="#475569"/>
+  <!-- Conveyor Output -->
+  <rect x="560" y="270" width="30" height="10" fill="#64748b"/>
+  <!-- Packaged Products -->
+  <rect x="570" y="265" width="20" height="20" rx="2" fill="#fde68a"/>
+  <rect x="590" y="265" width="20" height="20" rx="2" fill="#fde68a"/>
+  <rect x="610" y="265" width="20" height="20" rx="2" fill="#fde68a"/>
+  <rect x="570" y="265" width="20" height="5" rx="1" fill="#ea580c"/>
+  <rect x="590" y="265" width="20" height="5" rx="1" fill="#ea580c"/>
+  <rect x="610" y="265" width="20" height="5" rx="1" fill="#ea580c"/>
+  <!-- Section Label -->
+  <rect x="460" y="290" width="110" height="20" rx="3" fill="#eab308"/>
+  <text x="480" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#1e293b">PAKETLEME</text>
+  
+  <!-- Section 4: Quality Control -->
+  <rect x="620" y="200" width="150" height="150" rx="5" fill="#cbd5e1"/>
+  <rect x="630" y="210" width="130" height="130" rx="3" fill="#f8fafc"/>
+  <!-- Quality Control Equipment -->
+  <rect x="650" y="230" width="90" height="50" rx="3" fill="#cbd5e1"/>
+  <rect x="660" y="240" width="70" height="30" rx="2" fill="#94a3b8"/>
+  <!-- Inspection Camera -->
+  <circle cx="695" cy="255" r="10" fill="#1e293b"/>
+  <circle cx="695" cy="255" r="5" fill="#0ea5e9"/>
+  <rect x="685" cy="230" width="20" height="10" rx="3" fill="#475569"/>
+  <!-- Product Samples -->
+  <rect x="660" y="290" width="20" height="20" rx="2" fill="#fde68a"/>
+  <rect x="690" y="290" width="20" height="20" rx="2" fill="#fde68a"/>
+  <rect x="660" y="290" width="20" height="5" rx="1" fill="#ea580c"/>
+  <rect x="690" y="290" width="20" height="5" rx="1" fill="#ea580c"/>
+  <!-- Approval Mark -->
+  <circle cx="670" cy="300" r="8" fill="#f8fafc"/>
+  <text x="666" y="304" font-family="Arial" font-size="12" font-weight="bold" fill="#16a34a">✓</text>
+  <circle cx="700" cy="300" r="8" fill="#f8fafc"/>
+  <text x="696" y="304" font-family="Arial" font-size="12" font-weight="bold" fill="#16a34a">✓</text>
+  <!-- Section Label -->
+  <rect x="640" y="290" width="110" height="20" rx="3" fill="#0ea5e9"/>
+  <text x="648" y="305" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">KALİTE KONTROL</text>
+  
+  <!-- Connecting Conveyor Belts -->
+  <rect x="230" y="320" width="30" height="10" fill="#64748b"/>
+  <rect x="410" y="320" width="30" height="10" fill="#64748b"/>
+  <rect x="590" y="320" width="30" height="10" fill="#64748b"/>
+  
+  <!-- Main Control System -->
+  <rect x="350" y="100" width="100" height="60" rx="5" fill="#334155"/>
+  <rect x="360" y="110" width="80" height="40" rx="3" fill="#1e293b"/>
+  <circle cx="375" cy="130" r="8" fill="#22c55e"/>
+  <circle cx="400" cy="130" r="8" fill="#ef4444"/>
+  <rect x="365" cy="150" width="70" height="10" rx="2" fill="#475569"/>
+  
+  <!-- Title -->
+  <rect x="200" y="380" width="400" height="40" rx="5" fill="#16a34a"/>
+  <text x="250" y="407" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO GIDA ENDÜSTRİSİ ÇÖZÜMLERİ</text>
+</svg>

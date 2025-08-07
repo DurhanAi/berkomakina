@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Automatic Liquid Filling Machine -->
+  <!-- Main Machine Structure -->
+  <rect x="150" y="120" width="500" height="200" rx="10" fill="#cbd5e1"/>
+  <rect x="160" y="130" width="480" height="180" rx="8" fill="#e2e8f0"/>
+  
+  <!-- Control Panel -->
+  <rect x="170" y="150" width="80" height="140" rx="5" fill="#334155"/>
+  <rect x="180" y="160" width="60" height="80" rx="3" fill="#1e293b"/>
+  
+  <!-- Control Screen -->
+  <rect x="185" y="165" width="50" height="40" rx="2" fill="#0ea5e9"/>
+  <rect x="190" y="175" width="40" height="20" rx="1" fill="#0c4a6e"/>
+  
+  <!-- Control Buttons -->
+  <circle cx="200" cy="220" r="8" fill="#22c55e"/>
+  <circle cx="220" cy="220" r="8" fill="#ef4444"/>
+  <rect x="190" cy="240" width="40" height="5" fill="#f8fafc"/>
+  <rect x="190" cy="250" width="40" height="5" fill="#f8fafc"/>
+  
+  <!-- Filling System -->
+  <rect x="280" y="100" width="240" height="30" rx="5" fill="#475569"/>
+  
+  <!-- Filling Nozzles -->
+  <rect x="300" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  <rect x="340" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  <rect x="380" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  <rect x="420" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  <rect x="460" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  <rect x="500" y="130" width="15" height="40" rx="2" fill="#1e293b"/>
+  
+  <!-- Bottles -->
+  <path d="M295 240V340H320V240L315 225L307 220L300 225L295 240Z" fill="#bfdbfe"/>
+  <path d="M295 240V260H320V240L315 225L307 220L300 225L295 240Z" fill="#3b82f6"/>
+  
+  <path d="M335 240V340H360V240L355 225L347 220L340 225L335 240Z" fill="#bfdbfe"/>
+  <path d="M335 240V280H360V240L355 225L347 220L340 225L335 240Z" fill="#3b82f6"/>
+  
+  <path d="M375 240V340H400V240L395 225L387 220L380 225L375 240Z" fill="#bfdbfe"/>
+  <path d="M375 240V265H400V240L395 225L387 220L380 225L375 240Z" fill="#3b82f6"/>
+  
+  <path d="M415 240V340H440V240L435 225L427 220L420 225L415 240Z" fill="#bfdbfe"/>
+  <path d="M415 240V270H440V240L435 225L427 220L420 225L415 240Z" fill="#3b82f6"/>
+  
+  <path d="M455 240V340H480V240L475 225L467 220L460 225L455 240Z" fill="#bfdbfe"/>
+  <path d="M455 240V290H480V240L475 225L467 220L460 225L455 240Z" fill="#3b82f6"/>
+  
+  <path d="M495 240V340H520V240L515 225L507 220L500 225L495 240Z" fill="#bfdbfe"/>
+  <path d="M495 240V275H520V240L515 225L507 220L500 225L495 240Z" fill="#3b82f6"/>
+  
+  <!-- Conveyor Belt -->
+  <rect x="170" y="340" width="460" height="20" rx="3" fill="#64748b"/>
+  <rect x="175" y="340" width="450" height="3" fill="#475569"/>
+  <rect x="175" y="357" width="450" height="3" fill="#475569"/>
+  
+  <!-- Pipe System -->
+  <path d="M300 100V80H300V50H280V30H530V50H500V80H500V100" stroke="#64748b" stroke-width="4" fill="none"/>
+  
+  <!-- Machine Label -->
+  <rect x="280" y="190" width="240" height="30" rx="5" fill="#94a3b8"/>
+  <text x="305" y="210" font-family="Arial" font-size="16" font-weight="bold" fill="#1e293b">BERKO OTOMATİK SIVI DOLUM</text>
+</svg>

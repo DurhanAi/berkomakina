@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <!-- Background -->
+  <rect width="800" height="450" fill="#f1f5f9"/>
+  
+  <!-- Chemical Filling Systems -->
+  
+  <!-- Factory Environment -->
+  <rect x="50" y="100" width="700" height="250" rx="10" fill="#e2e8f0"/>
+  <rect x="50" y="350" width="700" height="30" rx="5" fill="#64748b"/>
+  
+  <!-- Chemical Filling Stations -->
+  
+  <!-- Safety Warning Signs -->
+  <rect x="80" y="110" width="40" height="40" rx="3" fill="#fef08a"/>
+  <text x="90" y="137" font-family="Arial" font-size="24" font-weight="bold" fill="#f59e0b">⚠</text>
+  
+  <rect x="140" y="110" width="40" height="40" rx="3" fill="#fca5a5"/>
+  <text x="150" y="137" font-family="Arial" font-size="24" font-weight="bold" fill="#dc2626">☢</text>
+  
+  <rect x="200" y="110" width="40" height="40" rx="3" fill="#bbf7d0"/>
+  <text x="210" y="137" font-family="Arial" font-size="24" font-weight="bold" fill="#16a34a">♻</text>
+  
+  <!-- Station 1: Acid Filling -->
+  <rect x="80" y="170" width="150" height="180" rx="5" fill="#94a3b8"/>
+  <rect x="90" y="180" width="130" height="160" rx="3" fill="#cbd5e1"/>
+  <!-- Acid Tank -->
+  <rect x="110" y="190" width="90" height="60" rx="5" fill="#475569"/>
+  <rect x="115" y="195" width="80" height="50" rx="3" fill="#334155"/>
+  <path d="M125 195L125 225" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M145 195L145 235" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M165 195L165 220" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M185 195L185 230" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 2"/>
+  <!-- Filling System -->
+  <rect x="130" y="250" width="50" height="30" rx="3" fill="#1e293b"/>
+  <rect x="145" y="280" width="20" height="40" fill="#1e293b"/>
+  <!-- Chemical Container -->
+  <path d="M120 340L120 380H170V340L145 330L120 340Z" fill="#cffafe"/>
+  <path d="M120 340L120 350H170V340L145 330L120 340Z" fill="#0ea5e9"/>
+  <!-- Safety Line -->
+  <line x1="90" y1="300" x2="220" y2="300" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10 5"/>
+  <!-- Section Label -->
+  <rect x="100" y="310" width="110" height="20" rx="3" fill="#0ea5e9"/>
+  <text x="117" y="325" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">ASİT DOLUM</text>
+  
+  <!-- Station 2: Solvent Filling -->
+  <rect x="260" y="170" width="150" height="180" rx="5" fill="#94a3b8"/>
+  <rect x="270" y="180" width="130" height="160" rx="3" fill="#cbd5e1"/>
+  <!-- Solvent Tank -->
+  <rect x="290" y="190" width="90" height="60" rx="5" fill="#475569"/>
+  <rect x="295" y="195" width="80" height="50" rx="3" fill="#334155"/>
+  <path d="M305 195L305 225" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M325 195L325 235" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M345 195L345 220" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M365 195L365 230" stroke="#fbbf24" stroke-width="2" stroke-dasharray="4 2"/>
+  <!-- Filling System -->
+  <rect x="310" y="250" width="50" height="30" rx="3" fill="#1e293b"/>
+  <rect x="325" y="280" width="20" height="40" fill="#1e293b"/>
+  <!-- Chemical Container -->
+  <rect x="300" y="340" width="70" height="40" rx="3" fill="#f1f5f9"/>
+  <rect x="300" y="340" width="70" height="10" rx="1" fill="#fbbf24"/>
+  <!-- Safety Line -->
+  <line x1="270" y1="300" x2="400" y2="300" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10 5"/>
+  <!-- Section Label -->
+  <rect x="280" y="310" width="110" height="20" rx="3" fill="#f59e0b"/>
+  <text x="305" y="325" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">SOLVENT</text>
+  
+  <!-- Station 3: Base Filling -->
+  <rect x="440" y="170" width="150" height="180" rx="5" fill="#94a3b8"/>
+  <rect x="450" y="180" width="130" height="160" rx="3" fill="#cbd5e1"/>
+  <!-- Base Tank -->
+  <rect x="470" y="190" width="90" height="60" rx="5" fill="#475569"/>
+  <rect x="475" y="195" width="80" height="50" rx="3" fill="#334155"/>
+  <path d="M485 195L485 225" stroke="#22c55e" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M505 195L505 235" stroke="#22c55e" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M525 195L525 220" stroke="#22c55e" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M545 195L545 230" stroke="#22c55e" stroke-width="2" stroke-dasharray="4 2"/>
+  <!-- Filling System -->
+  <rect x="490" y="250" width="50" height="30" rx="3" fill="#1e293b"/>
+  <rect x="505" y="280" width="20" height="40" fill="#1e293b"/>
+  <!-- Chemical Container -->
+  <rect x="480" y="330" width="70" height="50" rx="3" fill="#f1f5f9"/>
+  <rect x="480" y="330" width="70" height="15" rx="1" fill="#22c55e"/>
+  <!-- Safety Line -->
+  <line x1="450" y1="300" x2="580" y2="300" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10 5"/>
+  <!-- Section Label -->
+  <rect x="460" y="310" width="110" height="20" rx="3" fill="#16a34a"/>
+  <text x="493" y="325" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">BAZ</text>
+  
+  <!-- Station 4: Final Packaging -->
+  <rect x="620" y="170" width="150" height="180" rx="5" fill="#94a3b8"/>
+  <rect x="630" y="180" width="130" height="160" rx="3" fill="#cbd5e1"/>
+  <!-- Packaging Machine -->
+  <rect x="650" y="200" width="90" height="80" rx="5" fill="#64748b"/>
+  <rect x="660" y="210" width="70" height="60" rx="3" fill="#475569"/>
+  <rect x="680" y="220" width="30" height="40" rx="2" fill="#334155"/>
+  <!-- Packaged Products -->
+  <rect x="655" y="320" width="25" height="40" rx="2" fill="#f1f5f9"/>
+  <rect x="690" y="320" width="25" height="40" rx="2" fill="#f1f5f9"/>
+  <rect x="655" y="320" width="25" height="10" rx="1" fill="#3b82f6"/>
+  <rect x="690" y="320" width="25" height="10" rx="1" fill="#f59e0b"/>
+  <!-- Warning Labels -->
+  <circle cx="665" cy="345" r="5" fill="#fef08a"/>
+  <text x="663" y="348" font-family="Arial" font-size="6" font-weight="bold" fill="#f59e0b">⚠</text>
+  <circle cx="700" cy="345" r="5" fill="#fef08a"/>
+  <text x="698" y="348" font-family="Arial" font-size="6" font-weight="bold" fill="#f59e0b">⚠</text>
+  <!-- Safety Line -->
+  <line x1="630" y1="300" x2="760" y2="300" stroke="#fbbf24" stroke-width="4" stroke-dasharray="10 5"/>
+  <!-- Section Label -->
+  <rect x="640" y="310" width="110" height="20" rx="3" fill="#3b82f6"/>
+  <text x="660" y="325" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">PAKETLEME</text>
+  
+  <!-- Safety and Control Systems -->
+  <rect x="350" y="110" width="100" height="40" rx="5" fill="#ef4444"/>
+  <rect x="360" y="115" width="80" height="30" rx="3" fill="#b91c1c"/>
+  <text x="372" y="135" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">GÜVENLİK</text>
+  
+  <rect x="470" y="110" width="100" height="40" rx="5" fill="#334155"/>
+  <rect x="480" y="115" width="80" height="30" rx="3" fill="#1e293b"/>
+  <text x="490" y="135" font-family="Arial" font-size="12" font-weight="bold" fill="#f8fafc">KONTROL</text>
+  
+  <!-- Ventilation System -->
+  <rect x="590" y="110" width="130" height="40" rx="5" fill="#94a3b8"/>
+  <rect x="600" y="115" width="110" height="30" rx="3" fill="#64748b"/>
+  <path d="M610 130L610 115M620 130L620 120M630 130L630 115M640 130L640 125M650 130L650 118M660 130L660 122M670 130L670 116M680 130L680 120M690 130L690 125" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="627" y="145" font-family="Arial" font-size="8" font-weight="bold" fill="#f8fafc">HAVALANDIRMA</text>
+  
+  <!-- Title -->
+  <rect x="200" y="390" width="400" height="40" rx="5" fill="#0f766e"/>
+  <text x="250" y="417" font-family="Arial" font-size="18" font-weight="bold" fill="#f8fafc">BERKO KİMYASAL DOLUM SİSTEMLERİ</text>
+</svg>
